@@ -1,3 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
+/.idea/
+将删除 .idea/Essays.iml
+将删除 .idea/inspectionProfiles/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/workspace.xml
